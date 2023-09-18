@@ -1,4 +1,4 @@
-# speed_person_speaks![talking](https://github.com/DarielEGM/speed_person_speaks/assets/123778387/4d570466-962f-468e-b083-718add973d77)
+# speed_person_speaks ![talking](https://github.com/DarielEGM/speed_person_speaks/assets/123778387/4d570466-962f-468e-b083-718add973d77)
 
 This project was built with Python.
 
